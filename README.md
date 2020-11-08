@@ -28,3 +28,12 @@ The purpose of this analysis is to identify employees at Pewlett Hackard that ar
 | Manager | 2 |
 
 #### How many employees are eligible to participate in the Mentorship Program
+
+| Title | Total Eligible |
+| ----- | :-----: |
+| Senior Staff | 569 |
+| Senior Engineer | 529 |
+| Engineer | 190 |
+| Staff | 155 |
+| Technique Leader | 77 |
+| Assistant Engineer | 29 |
