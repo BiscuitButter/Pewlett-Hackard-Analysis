@@ -8,10 +8,10 @@ The purpose of this analysis is to identify employees at Pewlett Hackard that ar
 
 #### Major points
 
-* Item 1
-* Item 2
-* Item 3
-* Item 4
+* The Managers who are coming up for retirement should be included in the Mentorship Program.
+* If all new hires are expected to be mentored, it may be necessary to expand the mentor selection. Otherwise, each mentor will have roughly 60 mentees assigned.
+* Many of the retirees are senior employees. Promotions within the company should be considered for filling a large quantity of these positions.
+* Consider hiring from a diverse age group to prevent another mass exodus.
 
 ## Summary
 
